@@ -18,7 +18,7 @@ public class Question04 {
         int insertElement=35;
         Node newNode=new Node(insertElement);
         Node current=head;
-        for (int i = 0; i < insertPosition-1; i++) {
+        for (int i = 1; i < insertPosition-1; i++) {
             current=current.next;
         }
         newNode.next=current.next;
