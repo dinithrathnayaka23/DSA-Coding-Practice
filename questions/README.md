@@ -23,5 +23,6 @@ Each file presents one problem, a concise answer strategy, Java-style code, and 
 | 241–260 | Bit manipulation and mathematics |
 | 261–280 | Data structures and system design |
 | 281–300 | Mixed interview challenges |
+| 301–350 | Classic interview problems |
 
 Use the numbered files as a progressive practice list. The snippets are deliberately compact; add a `main` method and tests while practicing.
