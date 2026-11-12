@@ -25,5 +25,6 @@ Each file presents one problem, a concise answer strategy, Java-style code, and 
 | 281–300 | Mixed interview challenges |
 | 301–350 | Classic interview problems |
 | 351–360 | More classic interview problems |
+| 361–390 | Stacks, trees, graphs, bits, and DP |
 
 Use the numbered files as a progressive practice list. The snippets are deliberately compact; add a `main` method and tests while practicing.
