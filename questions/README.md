@@ -27,5 +27,6 @@ Each file presents one problem, a concise answer strategy, Java-style code, and 
 | 351–360 | More classic interview problems |
 | 361–390 | Stacks, trees, graphs, bits, and DP |
 | 391–415 | Strings, math, and array warm-ups |
+| 416–435 | Greedy, heaps, stacks, and DP |
 
 Use the numbered files as a progressive practice list. The snippets are deliberately compact; add a `main` method and tests while practicing.
